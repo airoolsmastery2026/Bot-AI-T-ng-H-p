@@ -1,0 +1,5 @@
+{
+  "name": "Bot-AI Tổng Hợp Dashboard",
+  "description": "Một giao diện người dùng để giám sát và quản lý hệ thống Bot-AI tổng hợp, cung cấp thông tin chi tiết thời gian thực về hiệu suất bot, quyết định của AI và sức khỏe hệ thống.",
+  "requestFramePermissions": []
+}
