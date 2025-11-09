@@ -1,3 +1,4 @@
+
 {
   "appName": "Bot-AI Tổng Hợp",
   "tagline": "AI-Trader",
@@ -61,6 +62,13 @@
   "decision_dca_maintain": "Duy trì chiến lược DCA",
   "reason_dca_maintain": "Lý do: Phù hợp với chiến lược tích lũy dài hạn, không bị ảnh hưởng bởi biến động nhỏ.",
   "confidence": "Độ tin cậy",
+  "aiBrainChatTitle": "Trò chuyện với AI Brain",
+  "aiBrainChatDescription": "Đặt câu hỏi về chiến lược, rủi ro, hoặc phân bổ vốn.",
+  "askPlaceholder": "Ví dụ: Nên tăng vốn cho bot ETH không?",
+  "send": "Gửi",
+  "aiIsTyping": "AI đang suy nghĩ...",
+  "you": "Bạn",
+  "aiBrain": "AI Brain",
 
   "systemHealthTitle": "Sức khỏe Hệ thống",
   

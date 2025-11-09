@@ -1,3 +1,4 @@
+
 {
   "appName": "Unified AI-Bot",
   "tagline": "AI-Trader",
@@ -61,6 +62,13 @@
   "decision_dca_maintain": "Maintain DCA Strategy",
   "reason_dca_maintain": "Reason: Aligns with long-term accumulation strategy, unaffected by minor volatility.",
   "confidence": "Confidence",
+  "aiBrainChatTitle": "Chat with AI Brain",
+  "aiBrainChatDescription": "Ask questions about strategy, risk, or capital allocation.",
+  "askPlaceholder": "E.g., Should I increase capital for the ETH bot?",
+  "send": "Send",
+  "aiIsTyping": "AI is thinking...",
+  "you": "You",
+  "aiBrain": "AI Brain",
 
   "systemHealthTitle": "System Health",
   
